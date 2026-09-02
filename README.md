@@ -54,7 +54,11 @@ Here are some ideas to get you started:
 - **[Current Project Name](https://github.com/your-username/current-project)** — Brief description of what you are currently building, its main purpose, and the tech stack used.
 
 #### ⭐ Featured Projects
-- **[Featured Project 1](https://github.com/your-username/project-1)** — Brief description of the project, problem solved, and technologies applied.
+- **Telco Customer Churn Prediction[https://github.com/Armand-JV/CYO-Project-MLG382]**
+Predict whether a customer will churn (cancel their subscription) in the next month
+Project Type: End-to-end Machine Learning + Interactive Web Application (CYO Capstone)
+
+Python Dash Render Scikit-learn
 - **[Featured Project 2](https://github.com/your-username/project-2)** — Brief description of the project, problem solved, and technologies applied.
 
 ---
