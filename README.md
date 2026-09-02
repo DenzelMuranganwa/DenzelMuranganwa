@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   <p>📍 Based in Pretoria, Gauteng, South Africa 🇿🇦</p>
 </div>
 
+---
 
 ### 👨‍💻 About Me
-
 
 * 🎓 Currently studying towards a Bachelor of Computing at Belgium Campus iTversity
 * 📊 Specializing in Business Intelligence & Data Science
@@ -49,24 +49,33 @@ Here are some ideas to get you started:
 ---
 
 ### 📂 Projects
-
+<!--
 #### 📌 Current Project
 - **[Current Project Name](https://github.com/your-username/current-project)** — Brief description of what you are currently building, its main purpose, and the tech stack used.
-
-#### ⭐ Featured Projects
-- **Telco Customer Churn Prediction[https://github.com/Armand-JV/CYO-Project-MLG382]**
-Predict whether a customer will churn (cancel their subscription) in the next month
-Project Type: End-to-end Machine Learning + Interactive Web Application (CYO Capstone)
-
-Python Dash Render Scikit-learn
-- **[Featured Project 2](https://github.com/your-username/project-2)** — Brief description of the project, problem solved, and technologies applied.
+-->
 
 ---
+
+## 📁 Featured Projects
+
+---
+
+### 📊 [Telco Customer Churn Prediction](https://github.com/Armand-JV/CYO-Project-MLG382)
+
+> Predict whether a customer will churn (cancel their subscription) in the next month.
+
+`Python` `Dash` `Render` `Scikit-learn` - *End-to-end Machine Learning + Interactive Web Application*
+
+---
+
 
 ### 📫 Let's Connect
 
 💼 Open to internship and junior opportunities in **Data Science** or **Business Intelligence**. I'm actively looking for opportunities to grow as a developer—if you're hiring, collaborating, or offering internships, please reach out!
 
-<!--* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)-->
+<!--* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 * 📧 **Email:** [your.email@example.com](mailto:your.602217@student.belgiumcampus.ac.za)
-* 🐙 **GitHub:** [github.com/username](https://github.com/DenzelMuranganwa)
+* 🐙 **GitHub:** [github.com/username](https://github.com/DenzelMuranganwa)-->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenzelMuranganwa)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.602217@student.belgiumcampus.ac.za)
