@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 #### 📌 Current Project
 - **[Current Project Name](https://github.com/your-username/current-project)** — Brief description of what you are currently building, its main purpose, and the tech stack used.
 -->
-###📊 [ML Web App](https://github.com/DenzelMuranganwa/ML-Web-App)
+### 📊 [ML Web App](https://github.com/DenzelMuranganwa/ML-Web-App)
 
 > Estimate whether a Telco customer is likely to churn and provide risk flags and practical retention recommendations.
 
 `Python` `Streamlit` `Scikit-learn` `Render` — *End-to-end machine learning workflow and interactive decision-support app*
 
-###📈 [Store Item Demand Forecasting Challenge](https://github.com/DenzelMuranganwa/Store-Item-Demand-Forecasting-)
+### 📈 [Store Item Demand Forecasting Challenge](https://github.com/DenzelMuranganwa/Store-Item-Demand-Forecasting-)
 
 > Forecast demand for 50 items across 10 stores over a three-month horizon using historical sales data.
 
