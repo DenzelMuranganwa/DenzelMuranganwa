@@ -53,6 +53,13 @@ Here are some ideas to get you started:
 #### 📌 Current Project
 - **[Current Project Name](https://github.com/your-username/current-project)** — Brief description of what you are currently building, its main purpose, and the tech stack used.
 -->
+📊 ML Web App
+Estimate whether a Telco customer is likely to churn and provide risk flags and practical retention recommendations.
+`Python` `Streamlit` `Scikit-learn` `Render` — *End-to-end machine learning workflow and interactive decision-support app*
+
+📈 Store Item Demand Forecasting Challenge
+Forecast demand for 50 items across 10 stores over a three-month horizon using historical sales data.
+`Python` `LightGBM` `XGBoost` `Pandas` — *Time-series forecasting and machine learning pipeline*
 
 ---
 
@@ -66,8 +73,11 @@ Here are some ideas to get you started:
 
 `Python` `Dash` `Render` `Scikit-learn` - *End-to-end Machine Learning + Interactive Web Application*
 
----
+### 📊 [South African Unemployment & Labour-Market Analysis](https://github.com/DenzelMuranganwa/BIN381)
+> An end-to-end business intelligence and machine learning project examining unemployment risk and labour-market exclusion using 2024 survey extracts.
+`R` `RStudio` `Power BI` - *Academic understanding + Decision-Support Dashboard*
 
+---
 
 ### 📫 Let's Connect
 
