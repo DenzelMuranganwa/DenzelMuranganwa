@@ -1,7 +1,7 @@
 
 
 <!--
-**DenzelMuranganwa/DenzelMuranganwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DenzelMuranganwa/DenzelMuranganwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 | Category | Technologies |
 | :--- | :--- |
 | **Programming** | C#, JavaScript, HTML5, CSS, Python, R |
-| **Visualization** | Power BI, Tableu|
+| **Visualization** | Power BI, Tableau |
 | **Networking & Simulation** | Cisco Packet Tracer |
 | **Data & BI** | Excel, Microsoft Access, Microsoft SQL Server, MySQL, Oracle, MongoDB |
 | **Cybersecurity & IoT** | Cybersecurity Essentials, IoT Big Data & Analytics |
@@ -89,9 +89,9 @@ Here are some ideas to get you started:
 
 💼 Open to internship and junior opportunities in **Data Science** or **Business Intelligence**. I'm actively looking for opportunities to grow as a developer—if you're hiring, collaborating, or offering internships, please reach out!
 
-<!--* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* 📧 **Email:** [your.email@example.com](mailto:your.602217@student.belgiumcampus.ac.za)
+<!--* 💼 **LinkedIn:** [linkedin.com/in/your-profile](YOUR-LINKEDIN-URL)
+* 📧 **Email:** [your.email@example.com](mailto:muranganwadenzel403@gmail.com)
 * 🐙 **GitHub:** [github.com/username](https://github.com/DenzelMuranganwa)-->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
 [![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenzelMuranganwa)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.602217@student.belgiumcampus.ac.za)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muranganwadenzel403@gmail.com)
